@@ -97,12 +97,12 @@ const Login = ( props ) => {
                                 />
                             </div>
                         </form>
-                        <Link
+                        {/* <Link
                             to={'/createAccount'}
                             className="enlace-cuenta"
                         >
                             Crear Cuenta
-                        </Link>
+                        </Link> */}
                 </div>
             </div>
         </Fragment>
